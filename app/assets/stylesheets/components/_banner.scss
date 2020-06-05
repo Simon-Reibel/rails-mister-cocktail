@@ -1,0 +1,17 @@
+.banner {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), #1FD5CF;
+    height: 30vh;
+    margin-bottom: 50px;
+    
+    a{
+        color: white;
+    }
+  }
+  
+  .logo{
+    background-image: asset-url('logo_2.png');
+    background-size: cover;
+    height: 250px;
+    width: 300px;
+    margin: auto;
+  }
